@@ -1,0 +1,15 @@
+.important-link {
+    color: #551C8A;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+a.pointer {
+    cursor: pointer;
+}
+
+a:hover {
+    cursor: help;
+}
+
+
